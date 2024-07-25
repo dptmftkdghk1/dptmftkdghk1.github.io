@@ -1,3 +1,3 @@
-document.querySelector('button').addEventListener('click', (e) => {
+document.querySelector('button').addEventListener('click', () => {
     alert('클릭');
 })
